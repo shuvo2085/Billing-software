@@ -1,4 +1,4 @@
-############################################CREATED BY MUHAMMAD HANAN ASGHAR#################################
+
 from tkinter import *
 import random
 
@@ -349,4 +349,3 @@ root.mainloop()
 
 
 
-############################################CREATED BY MUHAMMAD HANAN ASGHAR#################################
